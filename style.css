@@ -1,2 +1,49 @@
 @charset "utf-8";
-h1 {color:red;}
+body{
+	background-color:lightgray
+}
+h1 {color:red;
+	margin-top: 0px;
+  margin-bottom: 75px;
+  margin-right: 50px;
+  margin-left: 55px;
+  background-color: lightblue;
+	text-align: center;
+}
+	p {color:blue;
+		font-size:22px;}
+	
+ul {color: white;
+font-size: 30px;}
+li {
+  float: right;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: blue;
+	color: white;
+	
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:scroll
+  background-color: #333;
+}
+	h2{
+		color:red;
+	margin-top: 55px;
+  margin-bottom: 75px;
+  margin-right: 50px;
+  margin-left: 55px;
+  background-color: lightblue;
+	text-align: center;}
+h3 { margin-top: 75px;
+	font-size: 24px;}
+img {
+	margin-top: 50px;
+	
+}
